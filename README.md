@@ -2,9 +2,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms </b>
-  - 
+  - [Tic Tac Toe Model](https://github.com/carolynchep/tictactoe)
 - <b>Simulations Algorithms</b>
   - [Agent-Based Simulation COVID-19 Project](https://github.com/carolynchep/covidtransmission)
+  
 - <b>Data Analysis and Visualization in R</b>
   -
 

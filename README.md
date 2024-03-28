@@ -5,6 +5,7 @@
   - [Tic Tac Toe Model](https://github.com/carolynchep/tictactoe)
 - <b>Simulations Algorithms</b>
   - [Agent-Based Simulation COVID-19 Project](https://github.com/carolynchep/covidtransmission)
+  - [Simple Monte Carlo simulation](https://github.com/carolynchep/simplemontecarlo)
   
 - <b>Data Analysis and Visualization in R</b>
   -

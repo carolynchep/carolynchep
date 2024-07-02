@@ -8,7 +8,7 @@
     2. [Queue ADT](https://github.com/carolynchep/Queue-ADT)
     3. [Linked List ADT](https://github.com/carolynchep/LinkedList)
     4. [Heaps and Priority Queue ADT](https://github.com/carolynchep/PriorityQueue)
-    5. [Solving Mazes in Python : BFS vs DFS vs A*]
+    5. [Solving Mazes in Python : BFS vs DFS vs A*](https://github.com/carolynchep/maze)
   - [Tic Tac Toe Model](https://github.com/carolynchep/tictactoe)
 - <b>Simulations Algorithms</b>
   - [Agent-Based Simulation COVID-19 Project](https://github.com/carolynchep/covidtransmission)

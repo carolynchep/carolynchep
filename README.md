@@ -1,14 +1,14 @@
 <h1>Hi, I'm Carolyne! <br/>Aspiring data scientist, mathematician, and researcher. 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Data Structures and Algorithms </b>
   - Abstract Data Types
     
-    1. Stack ADT
-    2. Queue ADT
-    3. Linked List and Deque ADT
-    4. Heaps and Priority Queue ADT
-    5. BFS vs DFS vs A*
+    1. [Stack ADT](https://github.com/carolynchep/Stack-ADT)
+    2. [Queue ADT](https://github.com/carolynchep/Queue-ADT)
+    3. [Linked List ADT](https://github.com/carolynchep/LinkedList)
+    4. [Heaps and Priority Queue ADT](https://github.com/carolynchep/PriorityQueue)
+    5. [Solving Mazes in Python : BFS vs DFS vs A*]
   - [Tic Tac Toe Model](https://github.com/carolynchep/tictactoe)
 - <b>Simulations Algorithms</b>
   - [Agent-Based Simulation COVID-19 Project](https://github.com/carolynchep/covidtransmission)

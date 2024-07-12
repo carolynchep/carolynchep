@@ -17,6 +17,7 @@
 - <b>Data Analysis and Visualization in R</b>
   - [Smoking During Pregnancy](https://rpubs.com/carolynechep/1183427)
   - [Analyzing Income in College Majors](https://rpubs.com/carolynechep/1187456)
+- <b>Numerical Analysis in Python</b>
 
 
 

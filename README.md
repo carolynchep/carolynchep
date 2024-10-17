@@ -19,8 +19,17 @@
   - [Analyzing Income in College Majors](https://rpubs.com/carolynechep/1187456)
 - <b>Numerical Analysis in Python</b>
 
+<h2>👨‍💻 SQL Projects:</h2>
 
-
+- <b>[Data Camp Portfolio](https://www.datacamp.com/portfolio/carolynebett20) </b>
+  - [Analyzing and Formatting PostgreSQL Sales Data]
+  - [Uncovering the World's Oldest Businesses]
+  - [Impact Analysis of GoodThought NGO Initiatives]
+  - [When Was the Golden Era of Video Games?]
+  - [Analyze International Debt Statistics]
+  - [Analyzing Students' Mental Health]
+  - [Producing Soccer Insights for a Sports Media Agency]
+  - [Factors that Fuel Student Performance]
 
 <h2> 🤳 Connect with me:</h2>
 

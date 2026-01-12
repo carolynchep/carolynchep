@@ -17,7 +17,9 @@
 - <b>Data Analysis and Visualization in R</b>
   - [Smoking During Pregnancy](https://rpubs.com/carolynechep/1183427)
   - [Analyzing Income in College Majors](https://rpubs.com/carolynechep/1187456)
-- <b>Numerical Analysis in Python</b>
+    
+- <b>Machine Learning in Python</b>
+  - [Predicting Credit Card Approvals Using Machine Learning](https://github.com/carolynchep/creditcardapprovals)
 
 <h2>👨‍💻 SQL Projects:</h2>
 
